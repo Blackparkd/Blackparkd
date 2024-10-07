@@ -1,4 +1,6 @@
-### Hi there 👋
+My name is Eduardo Pereira.
+I'm currently taking a Computer Science degree at Universidade do Minho.
+This was my first contact with programming and deep interaction with software in general, but I'm finding it very interesting so far.
 
 <!--
 **Blackparkd/Blackparkd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
