@@ -17,5 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackparkd&show_icons=true&locale=en&layout=compact" alt="blackparkd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blackparkd&show_icons=true&locale=en" alt="blackparkd" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackparkd&" alt="blackparkd" /></p>
