@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Eduardo Pereira</h1>
+<h1 align="center">Hi, my name is Eduardo Pereira</h1>
 <h3 align="center">A Computer Science student from Braga</h3>
 
 - 🔭 I’m currently taking a **Computer Science degree at Universidade do Minho**
