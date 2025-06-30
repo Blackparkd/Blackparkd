@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Eduardo Pereira and I'm a Computer Science undergraduate from Universidade do Minho</h3>
+<h3 align="left">Hi 👋! My name is Eduardo Pereira and I'm a Computer Science graduate from Universidade do Minho</h3>
 
 -----------------------------------------------------------------------------------------------------------------------
 <h2 align="left"> Skills</h2>
