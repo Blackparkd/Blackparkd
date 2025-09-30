@@ -1,13 +1,46 @@
-## Hello There
+# Hello There! I'm a Sofware Developer with a Bachelor's degree in Computer Science🎓
 
+## Tools
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<!-- Linguagens -->
+![C](https://img.shields.io/badge/C-%2300599C?style=flat&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%230077B0?style=flat&logo=C%2B%2B&logoColor=white)
+![Erlang](https://img.shields.io/badge/Erlang-%23000034?style=flat&logo=Erlang&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-%23000?style=flat&logo=Haskell&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%230070A1?style=flat&logo=Java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=flat&logo=PHP&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C?style=flat&logo=Python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=CSS3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=MySQL&logoColor=white)
 
+<!-- Ferramentas -->
+![Git](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=Git&logoColor=white)
+
+---
+
+## Featured Projects
+
+- [Database Implementation](https://github.com/fbnsantos/pikachuPM)  
+  Developed a database system during a summer internship.<br>&emsp;Tools: **SQL**, **JAVASCRIPT**, **HTML** and **CSS**.
+    
+- [Development of an Imperative Programming Language](https://github.com/yourusername/sql-optimization-stats)  
+  Implemented a programming language and a compiler.<br>&emsp;Tools: Python modules **YACC** and **LEX**.
+  
+
+---
+
+## Currently
+
+- Building a mobile application using **React Native**
+
+---
+
+## Stats
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Blackparkd&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=Blackparkd&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Blackparkd&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Blackparkd&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-
-![](https://github-contributor-stats.vercel.app/api?username=Blackparkd&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
