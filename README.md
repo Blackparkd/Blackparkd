@@ -25,7 +25,7 @@
 - [Database Implementation](https://github.com/fbnsantos/pikachuPM)  
   Developed a database system during a summer internship.<br>&emsp;Tools: **SQL**, **JAVASCRIPT**, **HTML** and **CSS**.
     
-- [Development of an Imperative Programming Language](https://github.com/yourusername/sql-optimization-stats)  
+- [Development of an Imperative Programming Language](https://github.com/Blackparkd/PLC-Project)  
   Implemented a programming language and a compiler.<br>&emsp;Tools: Python modules **YACC** and **LEX**.
   
 
